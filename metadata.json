@@ -1,0 +1,6 @@
+{
+  "name": "FloodGuard — Hyperlocal Flood Intelligence",
+  "description": "Real-time ESP32 ultrasonic water-level and DHT11 environmental monitoring dashboard powered by Firebase Realtime Database for Tiruvallur, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
